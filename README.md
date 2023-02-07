@@ -1,11 +1,18 @@
-# Instalação
- - git clone 
- - yarn install
- - yarn start 
+# Ecommerce com React e Dummy
 
-# Bibliotecas:
- - Axios
- - react-slick
- - ReduxToolkit
- - DummyJSON - API 
+## Técnologias usadas
 
+Front-end:
+
+Desenvolvido usando: Axios, React, react-slick e Redux Toolkik.
+
+
+## Instalando Dependências 
+
+cd visie-commerce/
+
+yarn install
+
+## Executando a aplicação
+
+yarn start
